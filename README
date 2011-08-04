@@ -1,1 +1,1 @@
-Down load and run this file from your terminal.
+Download and run this file from your terminal. In puzzle = ''' ''' replace the dashes with the sequence of your sudoku puzzle and run the code. I wanted the code to take input from the command line but i failed to do that. You can prolly push on :)
